@@ -1,7 +1,8 @@
 body{
-    background-color: #13141b;
+    /* background-color: #13141b; */
+    background-color: #3d8aa8;
     color: #ffffff;
-    background-image: url(images/bg-image.png);
+    /* background-image: url(images/bg-image.png); */
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: top;
